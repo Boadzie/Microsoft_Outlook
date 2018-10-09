@@ -1,8 +1,7 @@
 # How to Run code
-- run ```javascript 
+- run ```
   npm install
   ```
-- run ```javascript 
+- run ```
 yarn start
-```
-to start the local server
+```to start the local server
